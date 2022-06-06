@@ -1,4 +1,9 @@
-### Hi there 👋
+## Using Technology to Shape the Future of Local Government
+- 🎯 **Solutions Oriented Approach** <sub>that targets real tangible problems</sub>
+- ⚡ **Empowering Government Employees** <sub>so they can better serve the community</sub>
+- 👨‍👨‍👧‍👦 **People Focused** <sub> so we never lose sight of what is really important</sub>
+- 🔐 **Security First** <sub> to prevent service outages and protect sensitive and personal information</sub>
+- 🌱 **Sustainable** <sub> for the future of our communities and our planet</sub>
 
 <!--
 **Spinnernicholas/Spinnernicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
