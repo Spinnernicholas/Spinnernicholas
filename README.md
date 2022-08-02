@@ -6,8 +6,9 @@
 - 🌱 **Sustainable** <sub> for the future of our communities and our planet</sub>
 
 ## About Me [![](https://img.shields.io/badge/-Nick%20Spinner-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spinnernicholas/)](https://www.linkedin.com/in/spinnernicholas/)
+- Forward Party California Local Leader and Event Organizer | [Join the Movement](https://forwardparty.com/join?recruiter_id=3468)
 - Eight years experience as a systems engineer in local government
-- Candidate for Clerk-Recorder in Contra Costa County, CA
+- 2022 Primary Candidate for Clerk-Recorder in Contra Costa County, CA
 - Computer Programming was my first love
 - Lifelong Gamer 
 
