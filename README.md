@@ -13,7 +13,7 @@
 - Lifelong Gamer
 
 ### Interactive Elections Map
-I built an [interactive elections results map](https://spinnernicholas.github.io/InteractiveElectionMap/public/index.html). The goal is to provide a simple, easy to use elections map that anyone can fork to create one for their region/election. It is completely static so it can be easily deployed using GitHub pages. I'm looking for other developers who are interested in contributing.
+I built an [interactive elections results map](https://maps.cocoacounty.org/coco-general-2022/safe/index.html). The goal is to provide a simple, easy to use elections map that anyone can fork to create one for their region/election. It is completely static so it can be easily deployed using GitHub pages. I'm looking for other developers who are interested in contributing.
 
 ### Current Games
 <img src="https://user-images.githubusercontent.com/2651095/188753138-bea16eae-9b33-4b77-9cb0-b0d6ba846edc.jpg" width="400px"/>
