@@ -1,6 +1,6 @@
-## Using Technology to Shape the Future of Local Government
+## Using Technology and Collaboration to Shape the Future
 - 🎯 **Solutions Oriented Approach** <sub>that targets real tangible problems</sub>
-- ⚡ **Empowering Government Employees** <sub>so they can better serve the community</sub>
+- ⚡ **Empowering Leaders** <sub>so they can better serve the community</sub>
 - 👨‍👨‍👧‍👦 **People Focused** <sub> so we never lose sight of what is really important</sub>
 - 🔐 **Security First** <sub> to prevent service outages and protect sensitive information</sub>
 - 🌱 **Sustainable** <sub> for the future of our communities and our planet</sub>
