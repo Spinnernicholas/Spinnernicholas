@@ -16,6 +16,12 @@
 ### Interactive Elections Map
 I built an [interactive elections results map](https://maps.cocoacounty.org/coco-general-2022/safe/index.html). The goal is to provide a simple, easy to use elections map that anyone can fork to create one for their region/election. It is completely static so it can be easily deployed using GitHub pages. I'm looking for other developers who are interested in contributing.
 
+### Project Recommendations
+- [Label Studio](https://github.com/HumanSignal/label-studio/) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [Stable Diffusion Docker](https://github.com/ashleykleynhans/stable-diffusion-docker) - Docker image for Stable Diffusion WebUI with ControlNet, After Detailer, Dreambooth, Deforum and ReActor extensions, as well as Kohya_ss and ComfyUI.
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL
+- [Destiny Item Manager (DIM)](https://github.com/DestinyItemManager/DIM) - Awesome inventory mangement Ttool for the game Destiny.
+
 ### Current Games
 <img src="https://user-images.githubusercontent.com/2651095/188753138-bea16eae-9b33-4b77-9cb0-b0d6ba846edc.jpg" width="400px"/>
 <img src="https://user-images.githubusercontent.com/2651095/188753355-38769569-5ead-41d0-aaf6-d3c71a2412f1.jpg" width="400px"/>
