@@ -14,7 +14,7 @@
 - Lifelong Gamer
 
 ### Interactive Elections Map
-I built an [interactive elections results map](https://maps.cocoacounty.org/coco-general-2022/safe/index.html). The goal is to provide a simple, easy to use elections map that anyone can fork to create one for their region/election. It is completely static so it can be easily deployed using GitHub pages. I'm looking for other developers who are interested in contributing.
+I built an [interactive elections results map](https://spinnernicholas.github.io/CocoaCountyMap/public/index.html). The goal is to provide a simple, easy to use elections map that anyone can fork to create one for their region/election. It is completely static so it can be easily deployed using GitHub pages. I'm looking for other developers who are interested in contributing.
 
 ### Project Recommendations
 - [Label Studio](https://github.com/HumanSignal/label-studio/) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
