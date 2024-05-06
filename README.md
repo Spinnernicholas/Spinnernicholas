@@ -17,7 +17,7 @@
 | Project / Repo | Description |
 | --- | --- |
 | [Cocoa County](https://github.com/Cocoa-County) | Open Source Tools for Government |
-| [Cocoa County](https://github.com/Cocoa-County)/[CocoaCountyMap](https://github.com/Cocoa-County/CocoaCountyMap) | Simple Open Source Interactive Election Maps - [Demo](https://spinnernicholas.github.io/CocoaCountyMap/public/index.html) |
+| [Cocoa County](https://github.com/Cocoa-County)/[CocoaCountyMap](https://github.com/Cocoa-County/CocoaCountyMap) | Simple Open Source Interactive Election Maps - [Demo](https://cocoa-county.github.io/CocoaCountyMap/public/index.html) |
 | [Cocoa County](https://github.com/Cocoa-County)/[TeaTime](https://github.com/Cocoa-County/TeaTime) | Time Card Application |
 | [Label Studio One Click Compose](Spinnernicholas/label-studio/tree/oneclick-compose) | Label Studio, nginx, postgres, and minio in one docker compose. |
 | [Label Studio Image Captioning Backend](https://github.com/Spinnernicholas/label-studio-ml-backend/tree/image-captioning) | Label Studio Machine Learning Backend for Image Captioning. |
