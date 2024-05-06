@@ -13,8 +13,14 @@
 - Computer Programming was my first love
 - Lifelong Gamer
 
-### Interactive Elections Map
-I built an [interactive elections results map](https://spinnernicholas.github.io/CocoaCountyMap/public/index.html). The goal is to provide a simple, easy to use elections map that anyone can fork to create one for their region/election. It is completely static so it can be easily deployed using GitHub pages. I'm looking for other developers who are interested in contributing.
+## Projects
+| Project / Repo | Description |
+| --- | --- |
+| [Cocoa County](https://github.com/Cocoa-County) | Open Source Tools for Government |
+| [Cocoa County](https://github.com/Cocoa-County)/[CocoaCountyMap](https://github.com/Cocoa-County/CocoaCountyMap) | Simple Open Source Interactive Election Maps - [Demo](https://spinnernicholas.github.io/CocoaCountyMap/public/index.html) |
+| [Cocoa County](https://github.com/Cocoa-County)/[TeaTime](https://github.com/Cocoa-County/TeaTime) | Time Card Application |
+| [Label Studio One Click Compose](Spinnernicholas/label-studio/tree/oneclick-compose) | Label Studio, nginx, postgres, and minio in one docker compose. |
+| [Label Studio Image Captioning Backend](https://github.com/Spinnernicholas/label-studio-ml-backend/tree/image-captioning) | Label Studio Machine Learning Backend for Image Captioning. |
 
 ### Project Recommendations
 - [Label Studio](https://github.com/HumanSignal/label-studio/) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
