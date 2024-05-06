@@ -21,6 +21,7 @@
 | [Cocoa County](https://github.com/Cocoa-County)/[TeaTime](https://github.com/Cocoa-County/TeaTime) | Time Card Application |
 | [Label Studio One Click Compose](Spinnernicholas/label-studio/tree/oneclick-compose) | Label Studio, nginx, postgres, and minio in one docker compose. |
 | [Label Studio Image Captioning Backend](https://github.com/Spinnernicholas/label-studio-ml-backend/tree/image-captioning) | Label Studio Machine Learning Backend for Image Captioning. |
+| [EnumFastToStringDotNet](https://github.com/Spinnernicholas/EnumFastToStringDotNet) | Visual Studio Source Generator for enum.toString(), 17 times faster than C# native. |
 
 ### Project Recommendations
 - [Label Studio](https://github.com/HumanSignal/label-studio/) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
