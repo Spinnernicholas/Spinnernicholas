@@ -8,7 +8,7 @@
 ## About Me [![](https://img.shields.io/badge/-Nick%20Spinner-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spinnernicholas/)](https://www.linkedin.com/in/spinnernicholas/)
 - Former President, Board of Directors, Crockett Community Services District
 - 11 years experience as a systems engineer in local government
-- 2022 Primary Candidate for Clerk-Recorder in Contra Costa County, CA
+- 2026 Primary Candidate for Tax Assessor in Contra Costa County, CA
 - Computer Programming was my first love
 - Lifelong Gamer
 
